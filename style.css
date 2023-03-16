@@ -1,0 +1,20 @@
+body{
+margin: 0;
+padding: 0px;
+background-color:  rgb(129, 129, 170);
+color: seashell;
+}
+
+.items{
+    font-size: 20px;
+ position: absolute;
+top:200px;
+left: 500px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.mov{
+
+    color: rgb(61, 61, 66);
+}
